@@ -3,8 +3,9 @@ This package includes my favorite libraries and classes of math and geometry ope
 
 ---
 ## System Requirements
-* This code was written for ROS Indigo in Ubuntu 14.04.
-* It may work out-of-the-box on ROS Indigo in Ubuntu 16.04, needs to be tested
+* ROS Indigo in Ubuntu 14.04.
+* ROS Kinetic in Ubuntu 16.04
+* Other distros not tested.
 
 ## Installation, Dependencies and Compilation
 Do the following steps:
