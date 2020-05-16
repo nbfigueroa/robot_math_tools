@@ -1,6 +1,10 @@
 ## robot_math_tools
 This package includes my favorite libraries and classes of math and geometry operations for robots.
 
+Includes stripped-down versions of:
+- [pyquaternion](http://kieranwynn.github.io/pyquaternion/): An amazing full-featured Python module for representing and using quaternions. 
+- [modern_robotics](https://github.com/NxRLab/ModernRobotics): The Python module from the code in "Modern Robotics: Mechanics, Planning, and Control Code Library" which contains the code library accompanying [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) (Kevin Lynch and Frank Park, Cambridge University Press 2017).
+
 ---
 ## System Requirements
 * ROS Indigo in Ubuntu 14.04.
