@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>ros_math_tools</name>
+  <name>robot_math_tools</name>
   <version>0.0.1</version>
   <description>Classes and libraries of math and geometry operations.</description>
   <maintainer email="nadiafig@mit.edu">Nadia Figueroa</maintainer>

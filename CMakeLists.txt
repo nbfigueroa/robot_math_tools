@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(ros_math_tools)
+project(robot_math_tools)
 
 macro(use_cxx11)
   if (CMAKE_VERSION VERSION_LESS "3.1")
