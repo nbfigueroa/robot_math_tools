@@ -103,15 +103,15 @@ catkin_package(
 ## Your package locations should be listed before other locations
 # include_directories(include)
 include_directories(
-    src_cpp/include
+    src_cpp/ros_boilerplate/include
     ${catkin_INCLUDE_DIRS}
 )
 
-set(SRC_DIR src_cpp)
+set(SRC_DIR src_cpp/)
 
 ## Declare a C++ library
 add_library(robot_math_tools
-    ${SRC_DIR}/BasicWorker.cpp
+    ${SRC_DIR}/ros_boilerplate/BasicWorker.cpp
     )
 
 ## Add cmake target dependencies of the library
@@ -120,7 +120,7 @@ add_library(robot_math_tools
 add_dependencies(robot_math_tools ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 
 ## Declare a C++ executable
-add_executable(robot_math_tools_node ${SRC_DIR}/run_boilerplate_node.cpp)
+add_executable(robot_math_tools_node ${SRC_DIR}/ros_boilerplate/run_boilerplate_node.cpp)
 
 ## Add cmake target dependencies of the executable
 ## same as for the library above
