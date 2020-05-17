@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package format="2">
+<package format="1">
   <name>robot_math_python</name>
   <version>0.0.0</version>
   <description>The robot_math_python package</description>
