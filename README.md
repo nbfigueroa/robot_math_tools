@@ -37,7 +37,7 @@ $ git clone https://github.com/nbfigueroa/robot_math_tools.git
 
 ---
 ## Contact
-Maintainer: [Nadia Figueroa](https://nbfigueroa.github.io/)(nadiafig @ mit dot edu)
+Maintainer: [Nadia Figueroa](https://nbfigueroa.github.io/) (nadiafig @ mit dot edu)
 
 ## License
 - This code is released under MIT license. 
