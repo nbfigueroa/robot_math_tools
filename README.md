@@ -21,7 +21,7 @@ This set of libraries are used to write controllers for the following robots/sim
 ```bash
  pip install numpy
 ```
-Do the following steps:
+Then do the following steps:
 * In your catkin src directory clone the repository
 ```
 $ git clone https://github.com/nbfigueroa/robot_math_tools.git
