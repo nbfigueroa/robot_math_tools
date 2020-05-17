@@ -17,8 +17,10 @@ This set of libraries are used to write controllers for the following robots/sim
 * Other distros not tested.
 
 ## Installation, Dependencies and Compilation
-* Dependencies: Make sure to install the following ros-distro and system dependencies...
-
+* Dependencies: Make sure to install the following python dependencies
+```bash
+ pip install numpy
+```
 Do the following steps:
 * In your catkin src directory clone the repository
 ```
