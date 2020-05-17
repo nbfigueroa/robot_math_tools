@@ -17,6 +17,8 @@ This set of libraries are used to write controllers for the following robots/sim
 * Other distros not tested.
 
 ## Installation, Dependencies and Compilation
+* Dependencies: Make sure to install the following ros-distro and system dependencies...
+
 Do the following steps:
 * In your catkin src directory clone the repository
 ```
@@ -33,7 +35,7 @@ $ git clone https://github.com/nbfigueroa/robot_math_tools.git
 
 ---
 ## Contact
-Maintainer: [Nadia Figueroa ](https://nbfigueroa.github.io/)(nadiafig @ mit dot edu)
+Maintainer: [Nadia Figueroa](https://nbfigueroa.github.io/)(nadiafig @ mit dot edu)
 
 ## License
 - This code is released under MIT license. 
