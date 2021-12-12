@@ -7,8 +7,9 @@ Includes stripped-down versions of:
 - [mathlib](https://github.com/nbfigueroa/mathlib): The stand-alone C++ math library developed at the LASA lab of EPFL.
 
 This set of libraries are used to write controllers for the following robots/simulations:
-- RobbieYuri: 
-- Melfa Cobot:
+- RobbieYuri (MIT) 
+- Melfa Cobot (MIT)
+- Franka Panda Emika (MIT)
 
 ---
 ## System Requirements
